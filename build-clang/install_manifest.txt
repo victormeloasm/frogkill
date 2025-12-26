@@ -1,0 +1,5 @@
+/usr/local/bin/frogkill
+/usr/libexec/frogkill-helper
+/usr/share/polkit-1/actions/org.frogkill.helper.policy
+/usr/local/share/frogkill/frogkill.service
+/usr/local/share/frogkill/frogkill.desktop
