@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=FrogKill
+Comment=Windows-like task manager (daemon)
+Exec=/usr/local/bin/frogkill --daemon
+X-GNOME-Autostart-enabled=true
